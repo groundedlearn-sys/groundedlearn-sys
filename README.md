@@ -72,12 +72,6 @@ My content is designed to help learners think like architects, not just coders.
 ---
 
 ## 🤝 Contributions  
-If you’re learning from these repositories, feel free to:  
-- Open issues  
-- Suggest improvements  
-- Submit pull requests  
-- Share feedback  
-
 Grounded Learning is built for learners — and grows with learners.
 
 ---
