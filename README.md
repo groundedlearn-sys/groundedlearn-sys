@@ -79,4 +79,3 @@ Grounded Learning is built for learners — and grows with learners.
 ## 🌟 Connect  
 - **YouTube:** Grounded Learning  
 - **GitHub:** GroundedLearning  
-- **LinkedIn:** (optional — add if you want)  
